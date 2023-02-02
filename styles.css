@@ -1,0 +1,32 @@
+/* styles.css */
+
+html {
+    background-color: khaki;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h3 {
+    font-style: bold;
+    font-fami ly: "Helvetica", "Arial", sans-serif;
+}
+
+div {
+    font-style: italic
+}
+
+.imageMain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
